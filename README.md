@@ -12,6 +12,7 @@ yarn install
 
 To start the app and send the data to SigNoz
 
+### Must have or install yarn first ###
 ```
 yarn start
 ```
